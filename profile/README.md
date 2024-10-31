@@ -116,9 +116,12 @@ mindmap
 ### 🌟 Support HelpingAI
 
 If you find our work valuable, please consider:
-- ⭐ Starring our repositories
-- 🔄 Sharing our models
-- 👥 Contributing to development
+
+⭐ Starring our repositories
+
+🔄 Sharing our models
+
+👥 Contributing to development
 
 *Together, we're building the future of emotionally intelligent AI*
 
