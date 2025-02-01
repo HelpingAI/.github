@@ -5,7 +5,7 @@
 ***Building emotionally intelligent AI for everyone***
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-blue.svg)](https://github.com/HelpingAI)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Organization-yellow)](https://huggingface.co/OEvortex)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Organization-yellow)](https://huggingface.co/HelpingAI)
 
 </div>
 
@@ -72,7 +72,7 @@ We believe in the power of community collaboration. Here's how you can get invol
 
 Join our active discussions:
 - [GitHub Discussions](https://github.com/HelpingAI/community/discussions)
-- Community contact: **Abhay Koul** (OEvortex)
+- Community contact: **Abhay Koul** (HelpingAI)
 
 ---
 
